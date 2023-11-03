@@ -1,4 +1,4 @@
-I provided updated code satisfying all acceptance critera for the marketing agency.
+I provided updated code satisfying all acceptance critera for the marketing agency. <br>
 My code: https://github.com/CoralDarling/ChallengeOne
 Source code:(https://github.com/coding-boot-camp/urban-octo-telegram)https://github.com/coding-boot-camp/urban-octo-telegram
 ![image](https://github.com/CoralDarling/ChallengeOne/assets/109124878/0d86bd6c-2ef6-47c9-912d-c7e014ff1688)
